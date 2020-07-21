@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+}
+
+h1{
+    font-size: 45px;
+	padding: 15px;
+}
+
+p{
+    font-size: 25px;
+}
+
+.pic{
+    width: 800px;
+    height: 540px;
+}
+
+.nav{
+    background-color: silver;
+}
+
+.nav a{
+    display:block;
+    background-color: darkblue;
+    color: white;
+}
+
+.nav a:hover{
+    background-color: lightblue;
+    color: blue;
+}

@@ -1,0 +1,33 @@
+body{
+    background-color: white;
+}
+
+p{
+    font-size: 30px;
+    color: #004fb6;
+}
+
+.box{
+    border: solid black;
+    border-width: 5px;
+    width: 500px;
+    margin: 0 auto;
+    padding-left: 10px;
+}
+
+.nav{
+    background-color: silver;
+}
+
+
+.nav a{
+    display:block;
+    background-color: darkblue;
+    color: white;
+}
+
+
+.nav a:hover{
+    background-color: lightblue;
+    color: blue;
+}
