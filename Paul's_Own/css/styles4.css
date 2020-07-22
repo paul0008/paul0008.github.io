@@ -7,13 +7,25 @@ p{
     color: #004fb6;
 }
 
+/*
 .box{
     border: solid black;
     border-width: 5px;
     width: 500px;
-    margin: 0 auto;
-    padding-left: 10px;
+    margin: 50px;
+    padding-left: 50px;
 }
+*/
+
+
+.box{
+    border: solid black;
+    border-width: 5px;
+    width: 450px;
+    margin: 50px;
+    padding-left: 20px;
+}
+
 
 .nav{
     background-color: silver;
